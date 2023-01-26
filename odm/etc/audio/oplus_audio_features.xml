@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audio_config>
+    <feature name="OPLUS_RECORD_MODE_SWITCH" config="NOTSUPPORT"/>
+    <feature name="OPLUS_MMI_MAINHL_ID" config="9"/>
+    <feature name="OPLUS_SMARTPA_CALI_SUPPORT" config="NO"/>
+    <feature name="OPLUS_KTV_USB_GAIN" config="3"/>
+    <feature name="OPLUS_KTV_LOOP_GAIN" config="12"/>
+    <feature name="OPLUS_KTV_REC_GAIN" config="5"/>
+</audio_config>
